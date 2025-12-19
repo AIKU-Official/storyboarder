@@ -123,11 +123,13 @@ python inference.py \
   --base-model "/path/to/base_model" \
   --checkpoint "/path/to/checkpoint" \
   --trigger-word "<ms_trg>" \
-  --prompt "medium shot, Eye level, a character standing in the forest" \
+  --prompt "Eye level, female, youth, happy, slim body, white shirt, black pants, no background, day time" \
   --fuse-lora \
   --output "result.png"
 
 ```
+
+inference.sh의 COMMON_PROMPT를 편집하여 원하는 장면을 설정할 수 있습니다. 
 
 ### 4. 검증 및 배치 생성 (Validation)
 
