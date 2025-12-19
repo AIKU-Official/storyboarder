@@ -2,7 +2,7 @@
 
 📢 2025년 2학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다
 
-🎉 2025년 2학기 AIKU - 열심히상 수상!
+🎉 2025년 2학기 AIKU -상 수상!
 
 ## 소개
 
@@ -147,9 +147,9 @@ Text를 잘 반영한 Consistent한 그림체로, Shot 별 차이가 확연히 �
 
 ## 팀원
 
-- [신명경] : Lead, Model Architecture, Data Augmentation
-- [김태관] : Experiment, Pipeline Construction, Data Clustering
-- [정성윤] : Image Preprocessing
-- [박서연] : Text Data Preprocessing
-- [장서현] : Data Preprocessing, Evaluation Metrics
+- [신명경](https://github.com/w-shin1112): Team Lead, Model Architecture, Data Augmentation
+- [김태관](https://github.com/TTKKWAN): Experiment, Pipeline Construction, Data Clustering
+- [장성윤](https://github.com/zeroplam5) : Image Preprocessing
+- [박서연](https://github.com/tigris-ignea) : Text Data Preprocessing
+- [장서현](https://github.com/rrrref) : Data Preprocessing, Evaluation Metrics
 
